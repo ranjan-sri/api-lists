@@ -1,0 +1,7 @@
+const ApiActionTypes = {
+    GET_COMMENTS_START : 'GET_COMMENTS_START',
+    GET_COMMENTS_SUCCESS : 'GET_COMMENTS_SUCCESS',
+    GET_COMMENTS_FAIL : 'GET_COMMENTS_FAIL',
+}
+
+export default ApiActionTypes;
